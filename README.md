@@ -47,7 +47,7 @@ Phone :
 </label>  
 <input type="text" name="country code"  value="+91" size="2"/>   
 <input type="text" name="phone" size="10"/> <br> <br>  
-Address  
+Description  
 <br>  
 <textarea cols="80" rows="5" value="address">  
 </textarea>  
