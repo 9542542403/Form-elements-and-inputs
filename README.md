@@ -38,6 +38,17 @@ Description
 <br>  
 <textarea cols="80" rows="5" value="address">  
 </textarea>  
+
+<br>  
+<br>  
+<label>   
+Subject Interested :  
+</label><br>  
+<input type="radio" name="CSE"/> CSE <br>  
+<input type="radio" name="IT"/> IT <br>  
+<input type="radio" name="ECE"/> ECE  
+<br>  
+<br>  
   
 <input type="button" value="Submit"/>  
 </form>  
