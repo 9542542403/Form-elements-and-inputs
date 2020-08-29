@@ -17,6 +17,12 @@ Registration Page
 <input type="text" name="middlename" size="15"/> <br> <br>  
 <label> Lastname: </label>         
 <input type="text" name="lastname" size="15"/> <br> <br>  
+
+<label>   
+Phone :  
+</label>  
+<input type="text" name="country code"  value="+91" size="2"/>   
+<input type="text" name="phone" size="10"/> <br> <br>
   
 <label>   
 Course :  
@@ -27,11 +33,7 @@ Course :
 <option value="masters">masters</option>    
 </select>  
 
-<label>   
-Phone :  
-</label>  
-<input type="text" name="country code"  value="+91" size="2"/>   
-<input type="text" name="phone" size="10"/> <br> <br>  
+  
 Description  
 <br>  
 <textarea cols="80" rows="5" value="address">  
