@@ -29,8 +29,8 @@ Course :
 </label>   
 <select>  
 <option value="Course">Course</option>  
-<option value="bachelors">bachlors</option>  
-<option value="masters">masters</option>    
+<option value="bachelors">Bachelors</option>  
+<option value="masters">Masters</option>    
 </select>  
 
   
